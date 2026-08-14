@@ -1,7 +1,0 @@
-Structure,Search,Insert,Delete,Max,Min,Predecessor,Successor
-Unsorted array,O(n),O(1),O(1),O(n),O(n),O(1),O(1)
-Sorted array,O(log n),O(n),O(n),O(1),O(1),O(1),O(1)
-Singly linked unsorted list,O(n),O(1),O(n),O(n),O(n),O(n),O(n)
-Singly linked sorted list,O(n),O(n),O(n),O(1),O(1),O(n),O(1)
-Doubly linked unsorted list,O(n),O(1),O(1),O(n),O(n),O(1),O(1)
-Doubly linked sorted list,O(n),O(n),O(1),O(1),O(1),O(1),O(1)
